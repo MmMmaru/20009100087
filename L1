@@ -1,0 +1,22 @@
+Git
+1 git clone(地址)
+2 git add *
+3 git commit-m
+4 git push
+5 git pull
+git https://dit-scm.com
+www.github.comm
+GPL
+markdown 写技术文章 文档标记
+Arduino 硬件
+www.tinkercad.com虚拟开发环境
+//c++
+//
+void setup()
+{
+pinMode(13.OUTPUT);
+}
+void loop()
+{
+
+}
